@@ -1,6 +1,8 @@
 # 🛒 DMart Sales Intelligence & Forecasting Dashboard
 
-An interactive, PowerBI-style data intelligence and sales forecasting application built using **Streamlit** and **Scikit-Learn**. This project predicts sales patterns and evaluates machine learning models using historical retail data.
+An interactive, PowerBI-style analytics and predictive application built using **Streamlit** and **Scikit-Learn**. This system forecasts retail sales trends and evaluates machine learning performance using historical DMart transaction data.
+
+🔗 **[Live Dashboard Link](https://share.streamlit.io/)** *(Replace this text inside the parenthesis with your actual Streamlit application URL)*
 
 ## 👥 Team Members
 * Arpan Bhavsar(https://github.com/arpan-bhavsar)
@@ -9,25 +11,28 @@ An interactive, PowerBI-style data intelligence and sales forecasting applicatio
 
 ---
 
-## 📊 Features
-- **PowerBI-Style UI:** Custom dark/light contrast sidebar with structured container tracking cards.
-- **Model Comparison:** Evaluates **Linear Regression** vs. **Decision Tree Regressor** performance metrics ($MAE$, $RMSE$, $R^2$).
-- **Granular Insights:** Visualizes prediction errors grouped by **Category**, **Sub-Category**, **City**, **Region**, and **Season**.
-- **Interactive Predictor:** Allows real-time user inputs to forecast transaction sales live on the dashboard.
+## 📊 Project Architecture & Features
+- **Interactive UI/UX:** Built a dynamic dashboard featuring tracking cards for high-level KPIs, clean evaluation graphs, and side-by-side model comparisons.
+- **Predictive Engine:** Predicts exact sales transactions based on real-time parameters (Category, City, Region, Discount, Profit, and Seasonality).
+- **Comprehensive Error Breakdown:** Provides transparent regression metric visualization ($MAE$, $RMSE$, $R^2$) to isolate model performance drops during high-variability festive quarters.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** Streamlit, Altair (Visualizations)
-- **Machine Learning:** Scikit-Learn (Pipelines, ColumnTransformers, OneHotEncoder)
-- **Data Engineering:** Pandas, NumPy
-- **Model Serialisation:** Joblib
+## 🛠️ Tech Stack & Dependencies
+* **Frontend:** Streamlit, Altair 
+* **Machine Learning:** Scikit-Learn (Pipelines, ColumnTransformers, OneHotEncoder)
+* **Data Processing:** Pandas, NumPy
+* **Model Serialization:** Joblib
+
+All core configurations and cloud requirements are tracked dynamically via `requirements.txt`.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 How to Run Locally
 
-### 1. Clone the Repository
+If you want to pull this project down and run it on your machine, follow these steps:
+
+### 1. Clone the Workspace
 ```bash
-git clone [https://github.com/your-username/sales-forecasting-project.git](https://github.com/your-username/sales-forecasting-project.git)
-cd sales-forecasting-project
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
