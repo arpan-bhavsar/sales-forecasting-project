@@ -2,7 +2,9 @@
 
 An interactive, PowerBI-style analytics and predictive application built using **Streamlit** and **Scikit-Learn**. This system forecasts retail sales trends and evaluates machine learning performance using historical DMart transaction data.
 
-🔗 **[Live Dashboard Link](https://sales-forecasting-project-fvp9hdsch3rrng5v8as5bu.streamlit.app/)** ## 👥 Team Members
+🔗 **[Live Dashboard Link](https://sales-forecasting-project-fvp9hdsch3rrng5v8as5bu.streamlit.app/)** 
+
+## 👥 Team Members
 * [Arpan Bhavsar](https://github.com/arpan-bhavsar)
 * [Kritarth Singh](https://github.com/KritarthSingh19)
 * [Janvi Soni](https://github.com/Janvi-Soni214)
