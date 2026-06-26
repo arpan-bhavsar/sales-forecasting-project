@@ -37,10 +37,6 @@ If you want to pull this project down and run it on your machine, follow these s
 git clone [https://github.com/arpan-bhavsar/sales-forecasting-project](https://github.com/arpan-bhavsar/sales-forecasting-project)
 cd sales-forecasting-project
 
-### 2. Install Project Dependencies
-'''bash
 pip install -r requirements.txt
 
-### 3. Launch the Application
-'''bash
 streamlit run dashboard.py
