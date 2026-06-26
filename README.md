@@ -5,7 +5,7 @@ An interactive, PowerBI-style data intelligence and sales forecasting applicatio
 ## 👥 Team Members
 * Arpan Bhavsar(https://github.com/arpan-bhavsar)
 * Kritarth Singh(https://github.com/KritarthSingh19)
-* Janvi Soni(https://github.com/teammate2-username)
+* Janvi Soni(https://github.com/Janvi-Soni214)
 
 ---
 
