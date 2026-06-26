@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit local configs
+.streamlit/
+
+# Large data/model files (Optional: remove if you want to keep them on Git, 
+# but GitHub has a 100MB limit per file)
+# eval_report.pkl
